@@ -1,0 +1,13 @@
+{
+  "name": "leon-solo-website",
+  "version": "1.0.0",
+  "description": "Site oficial do artista LEON - Solo - Rock de Raiz Universal",
+  "main": "index.html",
+  "scripts": {
+    "dev": "echo 'Use Live Server ou abra index.html no navegador'",
+    "test": "echo 'Sem testes configurados'"
+  },
+  "keywords": ["music", "rock", "artist", "website"],
+  "author": "LEON - Solo",
+  "license": "ISC"
+}
